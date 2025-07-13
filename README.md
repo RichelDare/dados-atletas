@@ -14,3 +14,6 @@ Sinta-se a vontade para enviar um pull request caso você tenha alguma ideia par
 
 # Licença
 Este projeto é de uso aberto para modificações.
+
+# Links
+Usei os arquivos README desse projeto como exemplo para este README: https://github.com/israelcruzz/games-with-javascript
