@@ -9,4 +9,3 @@ Sinta-se a vontade para enviar um pull request caso você tenha alguma ideia par
 
 # Licença
 Este projeto é de uso aberto para modificações.
-* 
