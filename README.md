@@ -1,6 +1,11 @@
 # dados-atletas
 Esse é meu segundo projeto de certificação no DevStart. Nele eu precisei fazer uma classe que recebe informações sobre um atleta e calcula dados como a categoria, IMC e a média. Você pode também verificar os dados no console.
 
+# Tecnologias usadas
+- JavaScript: lógica do código
+- Programação Orientada a Objetos(POO): classe Atleta e no exemplo de saída
+- Visual Studio Code: editor de código
+
 # Como Executar
 Faça o dowload do arquivo dados-atletas.js ou copie o código nele. Depois execute em seu editor de codigo de preferência.
 
